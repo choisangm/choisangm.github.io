@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/choisangm.github.io/static/css/main.ac31a3b6.css",
-    "main.js": "/choisangm.github.io/static/js/main.0be194f8.js",
-    "static/js/453.5eb0b58b.chunk.js": "/choisangm.github.io/static/js/453.5eb0b58b.chunk.js",
-    "index.html": "/choisangm.github.io/index.html",
-    "main.ac31a3b6.css.map": "/choisangm.github.io/static/css/main.ac31a3b6.css.map",
-    "main.0be194f8.js.map": "/choisangm.github.io/static/js/main.0be194f8.js.map",
-    "453.5eb0b58b.chunk.js.map": "/choisangm.github.io/static/js/453.5eb0b58b.chunk.js.map"
+    "main.css": "/static/css/main.ac31a3b6.css",
+    "main.js": "/static/js/main.b6e96c0c.js",
+    "static/js/453.5eb0b58b.chunk.js": "/static/js/453.5eb0b58b.chunk.js",
+    "index.html": "/index.html",
+    "main.ac31a3b6.css.map": "/static/css/main.ac31a3b6.css.map",
+    "main.b6e96c0c.js.map": "/static/js/main.b6e96c0c.js.map",
+    "453.5eb0b58b.chunk.js.map": "/static/js/453.5eb0b58b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac31a3b6.css",
-    "static/js/main.0be194f8.js"
+    "static/js/main.b6e96c0c.js"
   ]
 }
